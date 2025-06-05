@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ShivChandak/ShivChandak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sql
+SELECT
+  'Your Name'                AS Name,
+  'Senior Data Engineer'     AS Title,
+  'Snowflake, Azure Data Factory, SQL Server, Python' AS CoreTech,
+  'SharePoint, Monday.com, Git, DevOps, REST API, Postman, Snowpipe' AS SecondaryTech,
+  'Passionate about automating ETL, optimizing data flow, and delivering trusted pipelines.' AS Motto
+WHERE
+  Experience >= 3_years;
+```
